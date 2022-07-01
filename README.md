@@ -9,6 +9,8 @@ Marucs-dev
 
 You must setup ur website webhook in coinbase commerce settings.
 
+Thank you!
+
 ### Coded in:
 <p align="left">
     <img align="center" src="https://img.shields.io/badge/Php-F05032?style=for-the-badge&logo=php&logoColor=white" alt="PhP" />
